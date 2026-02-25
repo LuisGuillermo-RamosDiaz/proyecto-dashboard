@@ -1,3 +1,6 @@
+# Ignorer variables .env
+.env
+
 # Ignorar datos de la base de datos local
 db-data/
 
