@@ -11,6 +11,6 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r agente/requirements.txt
       - name: Check for syntax errors
-        run: python -m py_compile main.py
+        run: python -m py_compile agente/monitor.py
