@@ -1,0 +1,9 @@
+# Ignorar datos de la base de datos local
+db-data/
+
+# Ignorar entorno virtual de Python
+agente/venv/
+__pycache__/
+
+# Ignorar llaves SSH (NUNCA SUBIR EL .PEM)
+*.pem
