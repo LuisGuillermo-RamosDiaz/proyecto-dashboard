@@ -40,7 +40,7 @@ Desarrollo de la capa de presentación para el cliente final.
 
 ---
 
-## 4. espliegue del Agente (DevOps)
+## 4. Despliegue del Agente (DevOps)
 
 El agente de seguridad se despliega mediante un script interactivo que garantiza la persistencia como servicio del sistema.
 
